@@ -1,6 +1,5 @@
 /* 	
-	Rebecca Viegas - 100651156
-	CWD3500 - Web Application Frameworks 	
+	
 	
 	The purpose of this code is to provide a visual representation of popular recording artists and how many collaborations they have produced with each other. The two categories represent male and female recording artists, and there are yellow lines to represent a connection between artists in a different category, and green lines to show collaborations within the same gender category.
 
